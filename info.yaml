@@ -16,9 +16,9 @@ project:
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: "left "
-  ui[1]: "right "
-  ui[2]: "clock "
+  ui[0]: "left slide switch "
+  ui[1]: "right slide switch "
+  ui[2]: "manual clock button "
   ui[3]: ""
   ui[4]: ""
   ui[5]: ""
@@ -26,8 +26,8 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: "red"
-  uo[1]: "green"
+  uo[0]: "red LED "
+  uo[1]: "green LED "
   uo[2]: ""
   uo[3]: ""
   uo[4]: ""
