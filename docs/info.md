@@ -20,5 +20,5 @@ Play with it and see if the LEDs change
 
 ## External hardware
 
-1 button for the manual clock, 2 slides for the L and R, 1 RED LED, 1 GREEN LED, 5 grounds, 3 resistors,
+1 button for the manual clock, 2 slides for the L and R, 1 RED LED, 1 GREEN LED, 5 grounds, 5 resistors,
 wires, 2 3 input NAND gates, 2 2 input NAND gates, breadboard and you can recreate the whole thing.
